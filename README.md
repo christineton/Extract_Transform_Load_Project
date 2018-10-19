@@ -1,12 +1,12 @@
 # Extract_Transform_Load_Project
-Data integration Project
+Data integration Project 
 
 # Data Sources: 
 * For this project we gathered data on avocados. We used two different CSV files. We gathered the data from the below sources. 
 
     * https://www.kaggle.com/neuromusic/avocado-prices
 
-    * ttp://www.hassavocadoboard.com/shipment-data/historical-shipment-volume
+    * http://www.hassavocadoboard.com/shipment-data/historical-shipment-volume
 
 
 # What we did: 
