@@ -6,7 +6,7 @@ Data integration Project
 
     * https://www.kaggle.com/neuromusic/avocado-prices
 
-    * ttp://www.hassavocadoboard.com/shipment-data/historical-shipment-volume
+    * http://www.hassavocadoboard.com/shipment-data/historical-shipment-volume
 
 
 # What we did: 
