@@ -20,7 +20,10 @@ Data integration Project
 * We choose MySQL for our Database to better familiarize ourself with SQL queries.  When we were analyzing the data, we had thought of SQL statements that may work and help with our analysis.  We are not too familiar with MongoDB yet so decided to use MySQL
 
 # Challenges: 
+* Finding good avocado data to work with was our first challenge. 
+* We ran into a lot of challenges working with dates. The dates were formatted differently, thus we had issues when we tried to join them in SQL. 
+* Cleaning the data gave us some challeneges as well. In the end we ended up with one data set that had two columns for date where they were formatted differently. 
+* Sending the data to SQL was a challenge and we were not sure what data was being spit out. The quality of our data was difficult to work with. 
 
-
-# Retrospective: 
+# Retrospective Notes: 
 * Looking back, we realized that working with dates is very difficult. Issues arrise with merging with dates because of the various date formats. Finding good data to work with is very difficult and if we were to do this again we would try to find data where we could join based on data that was not dates. 
